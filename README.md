@@ -122,4 +122,4 @@ Register at - https://hacktoberfest.digitalocean.com/
 |[Harsh Vijay](https://github.com/hvijaycse)|II|CSE|[@hvijaycse](https://hacktoberfest.digitalocean.com/stats/hvijaycse)|
 Keshav Asopa | 3 | CSE | [@Keshav-Asopa](https://hacktoberfest.digitalocean.com/stats/Keshav-Asopa)|
 | Sarsiz | IV | CSE | [@sarsiz](https://hacktoberfest.digitalocean.com/stats/sarsiz)|
-
+|[Himani Jain](https://github.com/jainhimani1999)|II|CSE|[@jainhimani1999](https://hacktoberfest.digitalocean.com/stats/jainhimani1999)|
